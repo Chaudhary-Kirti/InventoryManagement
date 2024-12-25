@@ -22,10 +22,10 @@ This project is a Spring Boot application that demonstrates CRUD (Create, Read, 
 
 ### Steps
 1. Clone this repository:
-   git clone https://github.com/your-repo-url.git
+   git clone [https://github.com/your-repo-url.git](https://github.com/Chaudhary-Kirti/InventoryManagement.git)
 
 2. Navigate to the project directory:
-   cd spring-boot-crud-api
+   cd your-project-directory
    
 3. Configure the database in src/main/resources/application.properties:
 
